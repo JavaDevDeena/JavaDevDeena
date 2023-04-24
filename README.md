@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harideena</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate backend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/ikc2p8gvnPrq4MAP9"> 
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deena392002&label=Profile%20views&color=0e75b6&style=flat" alt="deena392002" /> </p>
